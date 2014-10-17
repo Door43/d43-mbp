@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mbp:home|Door43 (mbp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mbp|d43-mbp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mbp/archive/master.zip|d43-mbp.zip]]
+
+**Recent Changes**
+{{changes>ns = mbp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mbp|Ethnologue data]]
+
